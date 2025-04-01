@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_/Readme.md",
+                "file": "02_/test SGNB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "test SGNB"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_/Readme.md",
+                "file": "02_/test SGNB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Readmeへのバックリンク"
+              "title": "test SGNBへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_/Readme.md",
+                "file": "02_/test SGNB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Readmeからのアウトゴーイングリンク"
+              "title": "test SGNBからのアウトゴーイングリンク"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_/Readme.md",
+                "file": "02_/test SGNB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Readmeのアウトライン"
+              "title": "test SGNBのアウトライン"
             }
           }
         ]
@@ -211,7 +211,8 @@
   "active": "0fe9ae95b54d8f31",
   "lastOpenFiles": [
     "01_/test KTZK.md",
-    "01_/test SGNB.md",
-    "01_/Readme.md"
+    "02_/test SGNB.md",
+    "01_/Readme.md",
+    "01_/test SGNB.md"
   ]
 }
